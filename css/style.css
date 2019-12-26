@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  max-width: 100%;
+}
+
+.nav-bar {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.sasha-ppal {
+      position: relative;
+      left: 200px;
+      top: 4px;
+}
+
+.nav-a {
+  font-family: 'Paytone One', sans-serif;
+  font-size: 1rem;
+  color: white;
+  text-decoration: none;
+  }
+
+.nav-a:hover {
+   text-decoration: underline;
+ }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  position: relative;
+  left: 1100px;
+  margin-left: 50px;
+}
+
+
+.container-about {
+  background-color: black;
+height: 600px;
+color: white;
+display: inline-block;
+}
+
+.sasha-about {
+  float: right;
+    margin-left: 25px;
+  transform: translateY(-27px);
+  height: 600px;
+  }
+
+ .title-about {
+   font-family: 'Paytone One', sans-serif;
+font-size: 2rem;
+color: white;
+transform: translateY(25px);
+margin-left: 50px;
+ }
+ .text-about {
+   font-family: 'Alata', sans-serif;
+       font-size: 1.15rem;
+       color: white;
+       margin-left: 70px;
+       margin-top: 80px;
+ }
+
+.video {
+    background-color: black;
+    margin: auto;
+}
+
+iframe {
+  margin-top: 25px;
+        margin-left: 70px;
+        margin-bottom: 25px;
+}
+
+footer {
+
+  background-color: white;
+  margin: 0 auto;
+}
+ .logo-footer {
+   display: block;
+   height: 100px;
+   width: 255px;
+   margin: 20px auto;
+ }
+
+.footer-link {
+  font-family: 'Alata', sans-serif;
+  font-size: 1.2rem;
+  color: black;
+  text-decoration: none;
+}
+
+
+.footer-link:hover {
+  font-weight: bold;
+  }
+
+.footer-p {
+  font-family: 'Alata', sans-serif;
+font-size: 1.2rem;
+color: black;
+margin-top: 25px;
+text-align: center;
+text-decoration: none;
+}
+ .footer-contact {
+   font-family: 'Alata', sans-serif;
+ font-size: 1.2rem;
+ margin-left: 895px;
+ display: block;
+ font-weight: 400;
+ color: black;
+ text-decoration: none;
+ }
+ .footer-contact:hover {
+ font-weight: bold;
+ }
