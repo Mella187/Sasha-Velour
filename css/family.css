@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+  margin: 0;
+  max-width: 100%
+}
+
+.back {
+  background-color: black;
+  height: 800px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin-top: -400px;
+}
+
+img {
+  float: left;
+  width: 600px;
+  height: 900px;
+  margin-left: 200px;
+  position: absolute;
+  top: 50%;
+  margin-top: -450px;
+}
+
+.bloque-txt {
+  width: 700px;
+    position: absolute;
+  left: 1000px;
+  top: 230px;
+}
+
+p {
+   font-family: 'Alata', sans-serif;
+  font-size: 1.5rem;
+  color: white;
+}
+
+a {
+  font-family: 'Paytone One', sans-serif;
+font-size: 1rem;
+color: white;
+text-decoration: none;
+position: absolute;
+left: 580px;
+padding: 15px;
+border-radius: 15px;
+
+  }
+
+a:hover {
+  background-color: #7F0909;
+
+}

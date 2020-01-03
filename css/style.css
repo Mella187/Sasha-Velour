@@ -3,28 +3,24 @@ body {
   max-width: 100%;
 }
 
-.nav-bar {
+nav {
   background-color: black;
   color: white;
   margin: 0;
   padding: 20px 0;
 }
 
-.sasha-ppal {
-      position: relative;
-      left: 200px;
-      top: 4px;
-}
 
 .nav-a {
   font-family: 'Paytone One', sans-serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: white;
   text-decoration: none;
+  padding: 15px;
   }
 
 .nav-a:hover {
-   text-decoration: underline;
+color: #7F0909;
  }
 
 nav ul {
@@ -37,9 +33,14 @@ nav li {
   display: inline-block;
   position: relative;
   left: 1100px;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 
+.sasha-ppal {
+      position: relative;
+      left: 200px;
+      top: 4px;
+}
 
 .container-about {
   background-color: black;
@@ -51,8 +52,7 @@ display: inline-block;
 .sasha-about {
   float: right;
     margin-left: 25px;
-  transform: translateY(-27px);
-  height: 600px;
+    height: 550px;
   }
 
  .title-about {
