@@ -10,13 +10,13 @@ body {
   position: absolute;
   left: 50%;
   top:50%;
-  margin-left: -600px;
+  margin-left: -650px;
   margin-top: -400px;
 }
 
 .form-container {
   margin: 100px auto 40px;
-  width: 900px;
+  width: 800px;
 }
 h1 {
   font-family: 'Paytone One', sans-serif;
@@ -35,7 +35,7 @@ h3 {
   background-color: white;
   width: 900px;
   height: 100px;
-  margin-left: 15px;
+  margin-left: -30px;
   margin-bottom: 40px;
 }
 
@@ -66,7 +66,7 @@ h3 {
     color: black;
   }
 
-button {
+.botonito {
   display: block;
   margin: 85px auto 10px;
   width: 150px;
@@ -79,3 +79,13 @@ button {
     padding: 10px;
     cursor: pointer;
 }
+a {
+  font-family: 'Paytone One', sans-serif;
+      font-size: 0.7rem;
+      color: black;
+      text-decoration: none;
+      position: absolute;
+      left: 570px;
+      bottom: 90px;
+
+  }
